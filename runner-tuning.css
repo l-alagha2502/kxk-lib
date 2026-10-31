@@ -1,0 +1,1 @@
+.runner-stage{touch-action:none}.runner-obstacle.is-overhead{bottom:calc(48px + (var(--stack-level, 0) * 22px)) !important}.runner-player{will-change:bottom,transform}.runner-player.is-jumping{animation-duration:.56s}
